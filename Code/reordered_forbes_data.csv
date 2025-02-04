@@ -1,0 +1,151 @@
+Rank,Ticker,Company Name,Industry,Sector,Country,Profit,Revenue,Assets,Market Value,Market Cap,PE Ratio,Current Price,52 Week High,52 Week Low
+1,JPM,JPMorganChase,Banks - Diversified,Financial Services,United States,$50 B,$252.9 B,"$4,090.7 B",$588.1 B,747798462464,13.534177,267.3,270.82,172.62
+2,BRK-B,Berkshire Hathaway,Insurance - Diversified,Financial Services,United States,$73.4 B,$369 B,"$1,070 B",$899.1 B,1010429132800,9.479571,468.67,491.67,389.29
+3,2222.SR,Saudi Arabian Oil Company (Saudi Aramco),Oil & Gas Integrated,Energy,Saudi Arabia,$116.9 B,$489.1 B,$661.5 B,"$1,919.3 B",6698986635264,16.360947,27.65,32.65,26.8
+4,1398.HK,ICBC,Banks - Diversified,Financial Services,China,$50.4 B,$223.8 B,"$6,586 B",$215.2 B,2449085825024,5.028572,5.28,5.36,3.75
+5,BAC,Bank of America,Banks - Diversified,Financial Services,United States,$25 B,$183.3 B,"$3,273.8 B",$307.3 B,352382812160,14.423676,46.3,48.08,32.35
+6,AMZN,Amazon,Internet Retail,Consumer Cyclical,United States,$37.7 B,$590.7 B,$531 B,"$1,922.1 B",2499205136384,50.786324,237.68,241.77,151.61
+7,601939.SS,China Construction Bank,Banks - Diversified,Financial Services,China,$47 B,$199.8 B,"$5,403.8 B",$187.5 B,1487095857152,6.569231,8.54,9.02,6.65
+8,MSFT,Microsoft,Software - Infrastructure,Technology,United States,$86.2 B,$236.6 B,$484.3 B,"$3,123.1 B",3085547601920,33.44561,415.06,468.35,385.58
+9,601288.SS,Agricultural Bank of China,Banks - Diversified,Financial Services,China,$37.4 B,$193.5 B,"$5,832.9 B",$170.9 B,1768584773632,7.068493,5.16,5.44,3.9
+10,GOOG,Alphabet,Internet Content & Information,Communication Services,United States,$82.4 B,$317.9 B,$407.4 B,"$2,177.7 B",2506161389568,27.231789,205.6,207.08,131.55
+11,TM,Toyota Motor,Auto Manufacturers,Consumer Cyclical,Japan,$34.2 B,$311.9 B,$595.4 B,$274.9 B,252642852864,9.252203,188.93,255.23,159.04
+12,AAPL,Apple,Consumer Electronics,Technology,United States,$100.4 B,$381.6 B,$337.4 B,"$2,911.5 B",3545215795200,37.460316,236.0,260.1,164.08
+13,3988.HK,Bank of China,Banks - Diversified,Financial Services,China,$32.1 B,$173.3 B,"$4,657.1 B",$145.7 B,1578243850240,5.0759497,4.01,4.05,2.88
+14,XOM,ExxonMobil,Oil & Gas Integrated,Energy,United States,$32.8 B,$331.9 B,$377.9 B,$536.7 B,465031004160,13.626275,106.83,126.34,100.42
+15,HSBA.L,HSBC Holdings,Banks - Diversified,Financial Services,United Kingdom,$22.2 B,$144.9 B,"$3,000.5 B",$166.4 B,147327500288,8.429591,826.1,849.8,572.9
+16,WFC,Wells Fargo,Banks - Diversified,Financial Services,United States,$18.8 B,$120.1 B,"$1,959.2 B",$212.9 B,259168485376,14.674116,78.8,79.29,47.45
+17,SHEL,Shell Plc,Oil & Gas Integrated,Energy,United Kingdom,$17.9 B,$289.7 B,$402 B,$228.5 B,200509947904,13.013834,65.85,74.605,60.145
+18,0857.HK,PetroChina,Oil & Gas Integrated,Energy,China,$22.7 B,$399.1 B,$388.1 B,$177.6 B,1576232419328,6.2526317,5.94,8.6,5.34
+19,UNH,UnitedHealth Group,Healthcare Plans,Healthcare,United States,$15.4 B,$379.5 B,$284.2 B,$482.9 B,499244859392,34.95425,542.49,630.73,436.38
+20,WMT,Walmart,Discount Stores,Consumer Defensive,United States,$18.9 B,$657.3 B,$254.1 B,$521.1 B,788557594624,40.561985,98.16,99.0,55.84667
+21,005930.KS,Samsung Electronics,Consumer Electronics,Technology,South Korea,$14.9 B,$202.4 B,$349.8 B,$388 B,338897548607488,,51000.0,88800.0,49900.0
+22,CVX,Chevron,Oil & Gas Integrated,Energy,United States,$20.3 B,$195 B,$261.7 B,$299.8 B,261828460544,15.332992,149.19,167.11,135.37
+23,GS,Goldman Sachs Group,Capital Markets,Financial Services,United States,$9.4 B,$116.7 B,"$1,698.4 B",$150.8 B,198812172288,15.796744,640.4,650.0,375.2
+24,META,Meta Platforms,Internet Content & Information,Communication Services,United States,$45.8 B,$142.7 B,$222.8 B,"$1,197 B",1746147737600,28.896435,689.18,710.79,414.5
+25,TTE.PA,TotalEnergies,Oil & Gas Integrated,Energy,France,$21.5 B,$212.6 B,$283.1 B,$171.2 B,125328023552,8.205278,55.96,70.11,50.8
+26,MS,Morgan Stanley,Capital Markets,Financial Services,United States,$9.5 B,$99.8 B,"$1,228.5 B",$162.9 B,222457004032,17.412579,138.43,141.48,83.09
+27,RBC,RBC,Tools & Accessories,Industrials,United States,$11.3 B,$90.1 B,"$1,477.8 B",$150.4 B,10966164480,47.839508,348.75,364.96,240.36
+28,C,Citigroup,Banks - Diversified,Financial Services,United States,$7.8 B,$163.9 B,"$2,432.5 B",$122.2 B,152852250624,13.685715,81.43,82.77,52.24
+29,2318.HK,Ping An Insurance Group,Insurance - Life,Financial Services,China,$11.8 B,$136.1 B,"$1,654.8 B",$105.5 B,905449046016,6.194245,43.05,59.8,29.7
+30,0941.HK,China Mobile,Telecom Services,Communication Services,Hong Kong,$18.7 B,$142.7 B,$281 B,$204.1 B,1674120265728,11.103801,75.95,79.0,65.3
+31,DI7R.F,Allianz,,,,$9.7 B,$148.2 B,"$1,056.8 B",$113.8 B,0,,,265.024,263.967
+32,BNP.PA,BNP Paribas,Banks - Regional,Financial Services,France,$11.1 B,$157.6 B,"$2,862.7 B",$88.9 B,72946343936,7.6312056,64.56,73.08,53.08
+33,VZ,Verizon Communications,Telecom Services,Communication Services,United States,$11.3 B,$134 B,$380.2 B,$168.6 B,165817319424,9.514493,39.39,45.36,37.59
+34,3968.HK,China Merchants Bank,Banks - Regional,Financial Services,China,$20.3 B,$70.6 B,"$1,594 B",$127.4 B,1081571409920,6.9633937,41.85,47.35,27.1
+35,UBS,UBS,Banks - Diversified,Financial Services,Switzerland,$28.9 B,$81.3 B,"$1,607.1 B",$97.4 B,113248714752,27.671875,35.42,35.84,26.005
+36,SAN,Santander,Banks - Diversified,Financial Services,Spain,$12.3 B,$142.8 B,"$1,944 B",$82.1 B,78171709440,6.61039,5.09,5.27,3.87
+37,T,AT&T,Telecom Services,Communication Services,United States,$13.6 B,$122.3 B,$399.4 B,$124.8 B,170286481408,15.926174,23.73,24.98,15.94
+38,TCEHY,Tencent Holdings,Internet Content & Information,Communication Services,China,$18.3 B,$86.2 B,$227.8 B,$472.3 B,482267791360,23.882883,53.02,62.57,33.0
+39,MUFG,Mitsubishi UFJ Financial,Banks - Diversified,Financial Services,Japan,$10.3 B,$74 B,"$2,667.4 B",$117.2 B,148907704320,12.61,12.61,12.96,8.75
+40,CMCSA,Comcast,Telecom Services,Communication Services,United States,$15.4 B,$121.9 B,$263.6 B,$154.1 B,128483590144,8.130435,33.66,45.38,32.5
+41,BABA,Alibaba Group,Internet Retail,Consumer Cyclical,China,$11.2 B,$131.3 B,$244.2 B,$200.8 B,234838900736,20.130346,98.84,117.82,68.36
+42,600028.SS,Sinopec,Oil & Gas Integrated,Energy,China,$8.5 B,$414.9 B,$289.7 B,$106.8 B,685617250304,12.408163,6.08,7.64,5.86
+43,VOW3.DE,Volkswagen Group,Auto Manufacturers,Consumer Cyclical,Germany,$16.3 B,$348.6 B,$672 B,$65.6 B,46912712704,3.7994268,92.82,128.6,78.86
+44,TD,TD Bank Group,Banks - Diversified,Financial Services,Canada,$8.9 B,$80.2 B,"$1,430.3 B",$101.5 B,100104773632,17.399391,57.07,64.91,51.25
+45,JNJ,Johnson & Johnson,Drug Manufacturers - General,Healthcare,United States,$17.5 B,$89.7 B,$172 B,$372.2 B,366319370240,26.232758,152.15,168.85,140.68
+45,TSM,Taiwan Semiconductor,Semiconductors,Technology,Taiwan,$27.3 B,$71.5 B,$180.9 B,$672 B,1085648601088,30.380262,209.32,226.4,116.58
+47,BP,BP,Oil & Gas Integrated,Energy,United Kingdom,$9.2 B,$202.8 B,$275.4 B,$104.4 B,82377015296,31.06,31.06,40.4,27.82
+48,MC.PA,LVMH Moët Hennessy Louis Vuitton,Luxury Goods,Consumer Cyclical,France,$16.4 B,$93.1 B,$158.7 B,$423.9 B,348406906880,24.550663,685.7,886.4,565.4
+49,RELIANCE.NS,Reliance Industries,Oil & Gas Refining & Marketing,Energy,India,$8.4 B,$108.8 B,$210.5 B,$233.1 B,16860016803840,24.376835,1245.9,1608.8,1201.5
+50,NESN.SW,Nestlé,Packaged Foods,Consumer Defensive,Switzerland,$12.5 B,$103.5 B,$150.4 B,$272.1 B,198607978496,18.088993,77.24,100.56,72.82
+51,AXA.PA,AXA Group,,,,$7.6 B,$109.4 B,$684 B,$81.6 B,0,,,,
+52,MBG.DE,Mercedes-Benz Group,Auto Manufacturers,Consumer Cyclical,Germany,$14.4 B,$164.3 B,$288.5 B,$77.1 B,54298157056,5.3147974,56.39,77.45,50.75
+53,AXP,American Express,Credit Services,Financial Services,United States,$8.9 B,$69.5 B,$269.3 B,$174.7 B,222849908736,22.675001,317.45,326.27,203.42
+54,PBR,Petrobras,Oil & Gas Integrated,Energy,Brazil,$22.3 B,$99.4 B,$213.2 B,$92.6 B,87296294912,5.5507812,14.21,17.91,12.55
+55,SBIN.NS,State Bank of India,Banks - Regional,Financial Services,India,$8.1 B,$71.8 B,$807.4 B,$87.6 B,6791189495808,9.494074,760.95,912.0,637.7
+56,3328.HK,Bank of Communications,Banks - Diversified,Financial Services,China,$13.1 B,$78.8 B,"$1,982.5 B",$59.2 B,523023613952,5.016129,6.22,6.46,4.6
+57,1658.HK,Postal Savings Bank Of China (PSBC),Banks - Regional,Financial Services,China,$11.3 B,$80.3 B,"$2,259.7 B",$58.1 B,548905451520,5.2413793,4.56,5.39,3.73
+58,TSLA,Tesla,Auto Manufacturers,Consumer Cyclical,United States,$13.7 B,$94.7 B,$109.2 B,$566 B,1301403926528,200.29703,404.6,488.54,138.8
+59,PG,Procter & Gamble,Household & Personal Products,Consumer Defensive,United States,$15.1 B,$84.1 B,$119.6 B,$395.7 B,389221646336,26.473684,165.99,180.43,153.52
+59,STLA,Stellantis,Auto Manufacturers,Consumer Cyclical,Netherlands,$20.1 B,$204.9 B,$223.3 B,$65 B,38976667648,2.8920705,13.13,29.51,12.12
+61,BMW.DE,BMW Group,Auto Manufacturers,Consumer Cyclical,Germany,$11.6 B,$168.3 B,$274.7 B,$65.8 B,47088148480,5.807396,75.38,115.35,65.26
+62,DTE.DE,Deutsche Telekom,Telecom Services,Communication Services,Germany,$4.8 B,$121.5 B,$318.8 B,$119.1 B,161805139968,26.859503,32.5,32.75,20.73
+63,SMFG,Sumitomo Mitsui Financial,Banks - Diversified,Financial Services,Japan,$6.7 B,$61.3 B,"$1,950.8 B",$80.9 B,97562058752,11.534884,14.88,15.56,10.1
+64,CVS,CVS Health,Healthcare Plans,Healthcare,United States,$7.3 B,$361.3 B,$249.7 B,$72.4 B,71074996224,14.335025,56.48,80.75,43.56
+65,HDB,HDFC Bank,Banks - Regional,Financial Services,India,$7.7 B,$49.3 B,$483.2 B,$133.6 B,154635632640,19.624596,60.64,68.5,52.16
+66,BBVA,BBVA-Banco Bilbao Vizcaya,Banks - Diversified,Financial Services,Spain,$9 B,$75.2 B,$865.8 B,$63.5 B,66127052800,6.48,11.34,12.2,9.23
+67,SONY,Sony,Consumer Electronics,Technology,Japan,$6.7 B,$90 B,$225.4 B,$101.9 B,134472294400,18.652544,22.01,22.71,15.022
+68,SIE.DE,Siemens,Specialty Industrial Machinery,Industrials,Germany,$8 B,$84.4 B,$156.3 B,$148.2 B,157779066880,19.615383,201.45,209.4,150.68
+69,CBA.AX,Commonwealth Bank,Banks - Diversified,Financial Services,Australia,$6.5 B,$39 B,$870.7 B,$135.4 B,264404434944,28.137012,158.13,161.7,109.94
+70,LICI.BO,Life Insurance Corp. of India,Insurance - Life,Financial Services,India,$4.9 B,$98 B,$561.4 B,$73.6 B,5249434124288,12.634343,829.95,1221.5,804.6
+71,GM,General Motors,Auto Manufacturers,Consumer Cyclical,United States,$10.7 B,$174.9 B,$276.6 B,$52.2 B,49212796928,7.764521,49.46,61.24,37.6
+71,NITT.VI,Nippon Telegraph & Tel,Telecom Services,Communication Services,Japan,$8.8 B,$92.5 B,$195.6 B,$82.1 B,80163381248,10.60111,0.9541,1.172,0.8565
+73,ACA.VI,Credit Agricole,Banks - Regional,Financial Services,France,$6.4 B,$105.5 B,"$2,418.5 B",$48.3 B,43376349184,7.17,14.34,15.93,12.164
+74,AVGO,Broadcom,Semiconductors,Technology,United States,$11.6 B,$38.9 B,$177.9 B,$646.6 B,1037172146176,172.86719,221.27,251.88,119.756
+75,PEP,PepsiCo,Beverages - Non-Alcoholic,Consumer Defensive,United States,$9.2 B,$91.9 B,$100 B,$250.5 B,206745174016,22.225664,150.69,183.41,141.51
+76,HD,The Home Depot,Home Improvement Retail,Consumer Cyclical,United States,$14.9 B,$151.8 B,$79.2 B,$341.1 B,409245712384,27.93085,411.98,439.37,323.77
+77,ORCL,Oracle,Software - Infrastructure,Technology,United States,$10.6 B,$52.5 B,$137.1 B,$339.4 B,475651014656,41.47805,170.06,198.31,106.51
+78,MUFG,Mitsubishi,Banks - Diversified,Financial Services,Japan,$6.7 B,$135.3 B,$155 B,$88.9 B,148907704320,12.61,12.61,12.96,8.75
+79,ROG.SW,Roche Holding,Drug Manufacturers - General,Healthcare,Switzerland,$12.8 B,$65.3 B,$107.5 B,$208.4 B,229095473152,21.540787,285.2,289.6,212.9
+80,EQNR,Equinor,Oil & Gas Integrated,Energy,Norway,$9.6 B,$102.8 B,$137.2 B,$82.9 B,65731403776,7.3363914,23.99,29.45,21.85
+81,ELV,Elevance Health,Healthcare Plans,Healthcare,United States,$6.2 B,$171.7 B,$111.9 B,$127.3 B,91771936768,15.408878,395.7,567.26,362.21
+82,600938.SS,CNOOC,Oil & Gas E&P,Energy,Hong Kong,$17.5 B,$57.4 B,$141.8 B,$118.1 B,841869295616,9.17,27.51,35.62,22.2
+82,601166.SS,Industrial Bank,Banks - Regional,Financial Services,China,$10.6 B,$58.9 B,"$1,419.2 B",$50.9 B,421926010880,6.4476185,20.31,21.05,15.31
+84,ISP.MI,Intesa Sanpaolo Assicura,Banks - Regional,Financial Services,Italy,$9.1 B,$42.2 B,"$1,006.1 B",$74.8 B,74174652416,8.47551,4.153,4.2695,2.768
+85,IBM,IBM,Information Technology Services,Technology,United States,$8.2 B,$62.1 B,$137.2 B,$155.3 B,236431720448,39.82866,255.7,261.8,162.62
+86,CB,Chubb,Insurance - Property & Casualty,Financial Services,Switzerland,$9.3 B,$51.7 B,$212.2 B,$111.4 B,108943409152,12.078188,271.88,302.05,238.85
+86,ITUB,Itaú Unibanco Holding,Banks - Regional,Financial Services,Brazil,$6.6 B,$67.8 B,$525.2 B,$63.7 B,53186641920,8.656716,5.8,7.27,4.86
+88,BUD,Anheuser-Busch InBev,Beverages - Brewers,Consumer Defensive,Belgium,$5.3 B,$59.4 B,$221 B,$138.1 B,97789018112,15.36875,49.18,67.49,45.94
+89,ABBV,AbbVie,Drug Manufacturers - General,Healthcare,United States,$6 B,$54.4 B,$148.9 B,$293.9 B,324977033216,76.9456,183.9,207.32,153.58
+90,CSCO,Cisco Systems,Communication Equipment,Technology,United States,$12.1 B,$55.4 B,$101.2 B,$195.1 B,241355243520,26.008583,60.6,62.32,44.5
+91,HMC,Honda Motor,Auto Manufacturers,Consumer Cyclical,Japan,$7.7 B,$141.3 B,$196.7 B,$53.7 B,44500885504,7.1746836,28.34,37.9,23.41
+92,BNS.TO,Bank of Nova Scotia,Banks - Diversified,Financial Services,Canada,$5.8 B,$53.6 B,"$1,042.5 B",$59.2 B,101198020608,12.667803,74.36,80.14,60.68
+93,HYMTF,Hyundai Motor,Auto Manufacturers,Consumer Cyclical,South Korea,$9 B,$125.4 B,$219.8 B,$47.3 B,36090318848,3.1329482,54.2,69.27,48.1
+94,E19.F,Enel,,,,$4.7 B,$96 B,$209.8 B,$75.1 B,139944688,23.599998,4.72,4.92,4.18
+95,CI,Cigna,Healthcare Plans,Healthcare,United States,$3.6 B,$204.1 B,$148.4 B,$96.2 B,80551460864,24.274752,294.21,370.83,262.03
+96,COST,Costco Wholesale,Discount Stores,Consumer Defensive,United States,$6.8 B,$248.8 B,$66.3 B,$352.9 B,434967773184,57.47097,979.88,1008.25,697.27
+96,DE000SL0HX99.SG,Munich Re,,,,$5 B,$70 B,$298 B,$65.1 B,0,,,3590.49,3561.44
+98,ZURN.SW,Zurich Insurance Group,Insurance - Diversified,Financial Services,Switzerland,$4.4 B,$65.4 B,$339.4 B,$74.9 B,79511281664,18.128695,552.2,564.0,428.2
+99,NVS,Novartis,Drug Manufacturers - General,Healthcare,Switzerland,$15.2 B,$48.7 B,$94.3 B,$201.4 B,207511060480,17.839865,104.72,120.92,92.35
+100,KO,Coca-Cola,Beverages - Non-Alcoholic,Consumer Defensive,United States,$10.8 B,$46.1 B,$99.4 B,$271.5 B,273459150848,26.340248,63.48,73.53,57.93
+101,GE,GE Aerospace,Aerospace & Defense,Industrials,United States,$3.5 B,$69.5 B,$163.9 B,$175 B,218571079680,33.42693,203.57,207.65,108.33998
+102,CAT,Caterpillar,Farm & Heavy Construction Machinery,Industrials,United States,$11.2 B,$67 B,$83.7 B,$174.2 B,179331973120,16.837715,371.44,418.5,307.05
+103,DE,John Deere,Farm & Heavy Construction Machinery,Industrials,United States,$9.5 B,$58.6 B,$105.6 B,$110.5 B,129791598592,18.586584,476.56,485.84,340.2
+104,BMO,Bank of Montreal,Banks - Diversified,Financial Services,Canada,$4 B,$53.9 B,$991.6 B,$69.1 B,72456970240,14.983358,99.04,104.63,76.98
+105,MFG,Mizuho Financial,Banks - Regional,Financial Services,Japan,$4.7 B,$55.1 B,"$1,841.3 B",$51.1 B,70411419648,13.04762,5.48,5.63,3.45
+106,AIR.PA,AIRBUS,Aerospace & Defense,Industrials,Netherlands,$4.2 B,$72.1 B,$132.6 B,$136.7 B,130028658688,39.92252,164.88,172.78,124.72
+107,INTC,Intel,Semiconductors,Technology,United States,$4.1 B,$55.2 B,$192.7 B,$135.5 B,84131897344,,19.43,46.63,18.51
+108,MTS1.MU,Mitsui,,,,$7.4 B,$92.1 B,$111.7 B,$76.8 B,0,,,24.29,15.735
+109,COP,ConocoPhillips,Oil & Gas E&P,Energy,United States,$10.6 B,$55.1 B,$95.3 B,$142.3 B,127842541568,11.723606,98.83,135.18,94.23
+110,601668.SS,China State Construction Engineering,Engineering & Construction,Industrials,China,$7.6 B,$317.4 B,$410.4 B,$33.3 B,233047048192,4.6611567,5.64,6.79,4.72
+110,NVDA,NVIDIA,Semiconductors,Technology,United States,$29.8 B,$60.9 B,$65.7 B,"$2,312 B",2940514336768,47.4585,120.07,153.13,66.248
+110,RIO,Rio Tinto,Other Industrial Metals & Mining,Basic Materials,United Kingdom,$10.1 B,$54 B,$103.5 B,$119.2 B,98323922944,9.180851,60.41,74.24,57.85
+113,000839.SZ,CITIC,Entertainment,Communication Services,China,$8.1 B,$96.1 B,"$1,597.7 B",$31.9 B,11289110528,288.00003,2.88,4.25,1.72
+114,RTX,RTX,Aerospace & Defense,Industrials,United States,$3.5 B,$71 B,$160.2 B,$138.5 B,171635032064,36.323944,128.95,132.43,88.9
+115,GLEN.L,Glencore International,Other Industrial Metals & Mining,Basic Materials,Switzerland,$4.3 B,$218 B,$123.9 B,$76.9 B,41598656512,,339.8,506.72,338.7
+116,BHP,BHP Group,Other Industrial Metals & Mining,Basic Materials,Australia,$7.3 B,$55.3 B,$100 B,$152.1 B,125873152000,15.80386,49.15,63.21,48.06
+116,2628.HK,China Life Insurance,Insurance - Life,Financial Services,China,$6.6 B,$51.6 B,$818.1 B,$47.1 B,1010177409024,4.2702703,14.22,20.6,8.72
+118,USB.SN,US Bancorp,Banks - Regional,Financial Services,United States,$5 B,$41.2 B,$683.6 B,$64.7 B,90189266944,12.968338,49.15,49.15,
+119,HNHPF,Hon Hai Precision,Electronic Components,Technology,Taiwan,$4.8 B,$191.7 B,$117.9 B,$73.1 B,75693539328,15.362319,10.6,14.16,6.23
+120,IBE.MC,Iberdrola,Utilities - Diversified,Utilities,Spain,$6.6 B,$50.5 B,$164.1 B,$83.6 B,86364962816,13.575,13.575,14.26,10.415
+121,AZN,AstraZeneca,Drug Manufacturers - General,Healthcare,United Kingdom,$6.3 B,$47.6 B,$102.3 B,$238.4 B,219433140224,34.18358,70.76,87.68,60.47
+122,SNY,Sanofi,Drug Manufacturers - General,Healthcare,France,$5.8 B,$46.6 B,$139.7 B,$121.5 B,136240160768,23.025425,54.34,58.97,45.22
+122,UL,Unilever,Household & Personal Products,Consumer Defensive,United Kingdom,$7 B,$64.5 B,$83.1 B,$216.8 B,143597469696,20.941607,57.38,65.87,46.46
+124,F,Ford Motor,Auto Manufacturers,Consumer Cyclical,United States,$3.9 B,$177.5 B,$274.3 B,$49 B,40060841984,11.454545,10.08,14.85,9.49
+125,COF,Capital One,Credit Services,Financial Services,United States,$5.1 B,$51 B,$481.7 B,$54.2 B,77660372992,17.606743,203.71,208.63,128.23
+125,NAB.AX,NAB - National Australia Bank,Banks - Diversified,Financial Services,Australia,$4.6 B,$38.7 B,$698.7 B,$71.5 B,120539144192,17.353983,39.22,40.27,31.645
+127,APO,Apollo Global Management,Asset Management,Financial Services,United States,$5.4 B,$34.7 B,$334.1 B,$89.5 B,96743219200,18.054909,170.98,189.49,95.11
+128,V,Visa,Credit Services,Financial Services,United States,$18.1 B,$34.1 B,$92.4 B,$560.5 B,659335610368,34.490414,341.8,351.25,252.7
+129,UCG.MI,UniCredit,Banks - Regional,Financial Services,Italy,$10.8 B,$26.5 B,$875.4 B,$66.4 B,68268818432,7.1126413,43.885,45.13,28.16
+130,300750.SZ,Contemporary Amperex Technology,Electrical Equipment & Parts,Industrials,China,$6.2 B,$54.3 B,$101.2 B,$123.3 B,1131691769856,19.953417,257.0,301.5,142.3
+131,AIG,American International Group,Insurance - Diversified,Financial Services,United States,$4.8 B,$49 B,$475.6 B,$53.5 B,45946826752,14.644135,73.66,80.83,67.96
+132,ANZ.AX,ANZ Group Holdings,Banks - Diversified,Financial Services,Australia,$4.6 B,$40.9 B,$710.9 B,$56.5 B,89816612864,14.046512,30.2,32.8,26.9
+133,SQU.BE,VINCI,,,,$5.1 B,$75.3 B,$131 B,$71.5 B,0,,,119.52,96.56
+134,601998.SS,China Citic Bank,Banks - Regional,Financial Services,China,$9.4 B,$54.1 B,"$1,255 B",$34.7 B,340518436864,5.675214,6.64,8.0,5.66
+135,TMO,Thermo Fisher Scientific,Diagnostics & Research,Healthcare,United States,$6 B,$42.5 B,$97.1 B,$227.2 B,228639375360,36.096016,597.75,627.88,493.3
+136,SCHW,Charles Schwab,Capital Markets,Financial Services,United States,$4.8 B,$25.6 B,$468.8 B,$140 B,151423926272,27.665552,82.72,83.84,61.01
+137,PGR,Progressive,Insurance - Property & Casualty,Financial Services,United States,$5.8 B,$65 B,$88.9 B,$122.5 B,144367271936,17.125782,246.44,270.62,179.91
+138,D05.SI,DBS,Banks - Regional,Financial Services,Singapore,$7.5 B,$26.2 B,$560.7 B,$75.3 B,126025179136,11.509091,44.31,45.44,28.763636
+138,MPC,Marathon Petroleum,Oil & Gas Refining & Marketing,Energy,United States,$7.9 B,$146.5 B,$85.5 B,$63.3 B,46829592576,11.29535,145.71,221.11,130.54
+140,PNC,PNC Financial Services,Banks - Regional,Financial Services,United States,$5.2 B,$32.4 B,$566.2 B,$63.8 B,79563538432,14.625182,200.95,216.26,139.69
+141,G.MI,Generali Group,Insurance - Diversified,Financial Services,Italy,$4 B,$74.7 B,$555.3 B,$42 B,46981758976,12.0625,30.88,31.07,20.29
+142,IBN,ICICI Bank,Banks - Regional,Financial Services,India,$5.3 B,$28.5 B,$283.5 B,$95.3 B,102096740352,18.145569,28.67,32.14,23.54
+143,IOC0.F,Itochu,Conglomerates,Industrials,Japan,$5.5 B,$97 B,$95.7 B,$67.2 B,61912518656,11.991585,85.5,98.0,72.5
+144,WBC.AX,Westpac Banking Group,Banks - Diversified,Financial Services,Australia,$4.3 B,$35.3 B,$686.8 B,$62.1 B,114011373568,17.270834,33.16,34.0,23.77
+145,UPS,United Parcel Service,Integrated Freight & Logistics,Industrials,United States,$5.9 B,$89.6 B,$67.6 B,$127.7 B,97480458240,16.922964,114.23,158.95,109.62
+146,DB,Deutsche Bank,Banks - Regional,Financial Services,Germany,$4.9 B,$68 B,"$1,437.3 B",$33.6 B,38289932288,9.863637,19.53,20.45,12.43
+147,CM.TO,Canadian Imperial Bank,Banks - Diversified,Financial Services,Canada,$4.7 B,$42.9 B,$727.3 B,$46.3 B,86274433024,12.575549,91.55,95.5,59.53
+148,601088.SS,China Shenhua Energy,Thermal Coal,Energy,China,$8.6 B,$47.9 B,$90.8 B,$91.3 B,757252030464,13.793103,40.0,47.5,35.95
+149,MH6.BE,Tokio Marine Holdings,,,,$4.4 B,$48 B,$212.3 B,$61.8 B,0,,,37.54,23.68
+150,NEE,NextEra Energy,Utilities - Regulated Electric,Utilities,United States,$7.5 B,$24 B,$179.9 B,$156.3 B,147155976192,21.23442,71.56,86.1,53.95

@@ -1,0 +1,51 @@
+Ticker,Company Name,Sector,Industry,Market Cap,PE Ratio,Dividend Yield,Current Price,CEO,52 Week High,52 Week Low
+MMM,3M Company,Industrials,Conglomerates,82107334656,20.964186,0.0199,152.2,N/A,155.0,75.652176
+AOS,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,9758164992,18.539946,0.0196,67.3,N/A,92.45,65.53
+ABT,Abbott Laboratories,Healthcare,Medical Devices,221889478656,16.744764,0.0202,127.93,N/A,129.85,99.71
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,324977033216,76.9456,0.0373,183.9,N/A,207.32,153.58
+ACN,Accenture plc,Technology,Information Technology Services,240778526720,32.267395,0.017,384.95,N/A,387.51,278.69
+ADBE,Adobe Inc.,Technology,Software - Infrastructure,190421991424,35.33522,N/A,437.45,N/A,634.59,403.75
+AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,188164816896,103.52678,N/A,115.95,N/A,227.3,112.8
+AES,The AES Corporation,Utilities,Utilities - Diversified,7821297152,7.6388884,0.063,11.0,N/A,22.21,10.81
+AFL,Aflac Incorporated,Financial Services,Insurance - Life,59652595712,15.955423,0.0216,107.38,N/A,115.5,75.44
+A,"Agilent Technologies, Inc.",N/A,N/A,43227140096,34.280544,N/A,151.52,N/A,155.35,124.16
+APD,"Air Products and Chemicals, Inc.",Basic Materials,Specialty Chemicals,74554785792,19.457924,0.0214,335.26,N/A,338.0,212.24
+ABNB,"Airbnb, Inc.",Consumer Cyclical,Travel Services,81951334400,45.387543,N/A,131.17,N/A,170.1,110.38
+AKAM,"Akamai Technologies, Inc.",Technology,Software - Infrastructure,15007678464,29.556213,N/A,99.9,N/A,129.17,84.7
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,9895693312,N/A,0.019199999,84.19,N/A,143.19,71.97
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,REIT - Office,16850505728,54.083332,0.051999997,97.35,N/A,130.14,94.35
+ALGN,"Align Technology, Inc.",Healthcare,Medical Instruments & Supplies,16357241856,37.4547,N/A,219.11,N/A,335.4,196.09
+ALLE,Allegion plc,Industrials,Security & Protection Services,11538124800,20.42,0.0145000005,132.73,N/A,156.1,113.27
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,15108549632,22.910507,0.0345,58.88,N/A,64.19,46.8
+ALL,The Allstate Corporation,Financial Services,Insurance - Property & Casualty,50929561600,12.440492,0.0191,192.33,N/A,209.88,153.87
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,2506161389568,27.022516,0.0039,204.02,N/A,205.48,130.67
+GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,2506161389568,27.231789,0.0039,205.6,N/A,207.08,131.55
+MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,88302649344,7.9862385,0.0775,52.23,N/A,58.04,39.25
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,2499205136384,50.786324,N/A,237.68,N/A,241.77,151.61
+AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,14048705536,18.339624,0.0525,9.72,N/A,11.48,8.78
+AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,25144616960,22.164705,0.028499998,94.2,N/A,96.74,67.03
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,52383092736,19.830645,0.0378,98.36,N/A,105.18,75.22
+AXP,American Express Company,Financial Services,Credit Services,222849908736,22.675001,0.0086,317.45,N/A,326.27,203.42
+AIG,"American International Group, Inc.",Financial Services,Insurance - Diversified,45946826752,14.644135,0.0217,73.66,N/A,80.83,67.96
+AMT,American Tower Corporation,Real Estate,REIT - Specialty,86425100288,44.673912,0.035,184.95,N/A,243.56,170.46
+AWK,"American Water Works Company, Inc.",Utilities,Utilities - Regulated Water,24291588096,24.730158,0.024600001,124.64,N/A,150.68,113.34
+AMP,"Ameriprise Financial, Inc.",Financial Services,Asset Management,52271230976,21.980583,0.010299999,543.36,N/A,582.05,385.56
+AME,"AMETEK, Inc.",Industrials,Specialty Industrial Machinery,42690203648,32.153313,0.0061000003,184.56,N/A,198.33,149.03
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General,153422675968,36.498722,0.0334,285.42,N/A,346.85,253.3
+APH,Amphenol Corporation,Technology,Electronic Components,85333073920,36.864582,0.0091,70.78,N/A,79.39,51.025
+ADI,"Analog Devices, Inc.",Technology,Semiconductors,105128370176,64.60061,0.0165,211.89,N/A,244.14,182.57
+ANSS,"ANSYS, Inc.",Technology,Software - Application,30651224064,54.089504,N/A,350.5,N/A,363.03,289.82
+AON,Aon plc,Financial Services,Insurance Brokers,80097124352,29.6656,0.0073,370.82,N/A,395.33,268.06
+APA,APA Corporation,Energy,Oil & Gas E&P,8112937984,3.115057,0.0456,21.93,N/A,36.05,20.32
+APO,"Apollo Global Management, Inc.",Financial Services,Asset Management,96743219200,18.054909,0.0108,170.98,N/A,189.49,95.11
+AAPL,Apple Inc.,Technology,Consumer Electronics,3545215795200,37.460316,0.0042,236.0,N/A,260.1,164.08
+AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,146570625024,20.97093,0.0086,180.35,N/A,255.89,158.96
+APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,14670946304,6.9510026,N/A,62.42,N/A,85.56,51.47
+ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,35016843264,6.246309,N/A,93.07,N/A,116.47,80.97
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,24515297280,14.39045,0.0379,51.23,N/A,66.08,48.4
+ANET,Arista Networks Inc,Technology,Computer Hardware,145162141696,55.133976,N/A,115.23,N/A,133.575,60.08
+AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,75395547136,46.505394,0.0087,301.82,N/A,316.72,230.08
+AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,11036535808,15.359743,0.0149,215.19,N/A,230.55,160.12
+T,AT&T Inc.,Communication Services,Telecom Services,170286481408,15.926174,0.048899997,23.73,N/A,24.98,15.94
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,22149187584,20.8653,0.023699999,142.51,N/A,152.65,110.46
+ADSK,"Autodesk, Inc.",Technology,Software - Application,67096567808,61.773808,N/A,311.34,N/A,326.62,195.32
